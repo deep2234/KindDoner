@@ -57,6 +57,12 @@ KindDoner is a colorful and responsive donation platform that allows users to:
 
 ---
 
+## Video
+Here is a video of the website walkthrough.
+https://youtu.be/ALYKmqZpusY
+
+
+
 ## ✅ Status
 
 ✔️ Completed  
