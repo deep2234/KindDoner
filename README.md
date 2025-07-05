@@ -17,6 +17,14 @@ KindDoner is a colorful and responsive donation platform that allows users to:
 
 ---
 
+
+## 🏗️ Architecture
+
+![architecture_diagram](https://github.com/user-attachments/assets/003cffd8-18e4-4a03-a057-18bbdf0b0b96)
+
+
+---
+
 ## 🖼️ Key Features
 
 ### 📬 Contact Us (x2)
