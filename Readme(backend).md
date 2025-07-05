@@ -11,7 +11,9 @@ Built entirely by **Dip Shill**, this project showcases both **frontend design**
 
 ## 🏗️ Architecture
 
-![Architecture Diagram](![1_oaoY3k8IIQlwIC-2XHoirw](https://github.com/user-attachments/assets/da8de3ad-a759-4fb2-91c0-d65684a977ab)).
+![architecture_diagram](https://github.com/user-attachments/assets/003cffd8-18e4-4a03-a057-18bbdf0b0b96)
+
+
 
 > The project uses AWS services to implement a fully serverless and scalable backend:
 - **API Gateway**: Receives form requests from the frontend
