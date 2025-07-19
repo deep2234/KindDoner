@@ -1,5 +1,5 @@
 body { 
-    background-image: url("/assets/images/donation/image_1.jpg");
+    background-image: url("assets/images/donation/image_1.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -292,7 +292,7 @@ header nav ul {
     max-width: 600px;
     margin: 50px auto;
     padding: 20px;
-    background-image: url("/assets/images/donation/dbf0f3.png");
+    background-image: url("assets/images/donation/dbf0f3.png");
     box-shadow: 0 5px 20px rgb(0, 0, 0);
     border-radius: 15px;
 

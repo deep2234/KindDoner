@@ -1,7 +1,7 @@
 /* General styles */
 
 body { 
-    background-image: url("/assets/images/new/image_12.jpg");
+    background-image: url("assets/images/new/image_12.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
